@@ -1,0 +1,50 @@
+body{
+    padding:25px;
+}
+
+.header{
+    border-bottom: 2px solid black;
+}
+
+button{
+    box-shadow: 2px 2px;
+}
+.DVD{
+    display:none;
+}
+.Book{
+    display:none;
+}
+.Furniture{
+    display:none;
+}
+.card{
+    text-align:center; 
+    border:1px solid black; 
+    border-radius:0;
+    width:300px;
+    height:150px;
+    margin: 10px 10px;
+}
+.main{
+    margin:0 5%;
+    margin-top: 20px;
+}
+.cardCheckbox{
+    margin-left: 30px;
+    margin-top:10px;
+}
+.mainAdd label{
+    margin:10px 0;
+}
+.mainAdd{
+    margin-top: 25px;
+}
+.footer{
+    text-align:center;
+    margin-top:100px;
+    border-top: 2px solid black;
+}
+.footer p{
+    margin-top:20px;
+}
